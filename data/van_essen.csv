@@ -1,0 +1,22 @@
+system,areas,labels,
+early visual,"V1, V2, V3, V4","1,4,5,6",4
+dorsal stream,"V3A, V3B,  V6, V6A, V7,  IPS1 ","3,13,16,17,19,152",6
+ventral stream,"V8, VVC, PIT, FFC, VMV1, VMV2,VMV3","7, 18, 22, 153, 154, 160, 163",7
+MT+ Complex,"V3CD, LO1, LO2, LO3, V4t, FST, MT, MST, PH","2, 20, 21, 23, 138, 156, 157, 158, 159",9
+somatosensory and motor,"4, 3a, 3b, 1, 2","8, 9, 51, 52, 53",5
+paracentral lobular and mid cingulate,"24dd, 24dv, 6mp, 6ma, SCEF, 5m, 5L, 5mv","36, 37, 39, 40, 41, 43, 44, 55",8
+premotor,"55b, 6d, 6a, FEF,  6v, 6r, PEF","10, 11, 12, 54, 56, 78, 96",7
+posterior opercular,"43, FOP1 , OP4, OP1, OP2-3, PFcm","99, 100, 101, 102, 105, 113",6
+early auditory,"A1, MBelt, LBelt, Pbelt, RI","24, 104, 124, 173, 174",5
+association auditory,"A4, A5, STSdp, STSda, STSvp, STSva, STGa, TA2","107, 123, 125, 128, 129, 130, 175, 176",8
+insular and frontal opercular,"52, PI, Ig, PoI1, PoI2, FOP2, FOP3, MI, AVI, AAIC, Pir,FOP4, FOP5","103, 106, 108, 109, 110, 111, 112, 114, 115, 167, 168, 169, 178",13
+medial temporal,"H, PreS, EC, PeEc, PHA1, PHA2, PHA3","118, 119, 120, 122, 126, 127, 155",7
+lateral temporal,"PHT, TE1p, TE1m, TE1a, TE2p, TE2a, TGv, TGd, TF","131, 132, 133, 134, 135, 136, 137, 172, 177",9
+temporal-parietal-occipital junction,"TPOJ1, TPOJ2, TPOJ3, STV, PSL","25, 28, 139, 140, 141",5
+superior parietal and IPS,"LIPv, LIPd, VIP, AIP, MIP, 7PC, 7AL, 7Am, 7PL, 7Pm","29, 42, 45, 46, 47, 48, 49, 50, 95, 117",10
+inferior parietal,"PGp, PGs, PGi, PFm, PF, PFt, PFop, IP0, IP1, IP2","116, 143, 144, 145, 146, 147, 148, 149, 150, 151",10
+posterior cingulate,"DVT, ProS, POS1, POS2, RSC, v23ab, d23ab, 31pv, 31pd, 31a, 23d, 23c, PCV, 7m","14, 15, 27, 30, 31, 32, 33, 34, 35, 38, 121, 142, 161, 162",14
+anterior cingulate and medial prefrontal,"33pr, p24pr, a24pr, p24, a24, p32pr, a32pr, d32, p32, s32, 8BM, 9m, 10v, 10r, 25","57, 58, 59, 60, 61, 62, 63, 64, 65, 69, 88, 164, 165, 179, 180",15
+orbital and polar frontal,"47s, 47m, a47r, 11l, 13l, a10p, p10p, 10pp, 10d, OFC, pOFC","66, 72, 77, 89, 90, 91, 92, 93, 94, 166, 170",11
+inferior frontal,"44, 45, IFJp, IFJa, IFSp, IFSa, 47l, p47r","74, 75, 76, 79, 80, 81, 82, 171",8
+dorsolateral prefrontal,"8C, 8Av, i6-8, s6-8, SFL, 8BL, 9p, 9a, 8Ad, p9-46v, a9-46v, 46, 9-46d","26, 67, 68, 70, 71, 73, 83, 84, 85, 86, 87, 97, 98",13
